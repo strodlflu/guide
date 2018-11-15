@@ -13,3 +13,11 @@ When designing a **Product API**, some or all of the following actions may be im
 
 
 
+## Product category 
+
+When categories the types of products we can identify 4 categories that share characteristics. 
+
+* Ride: Taxi, ride hailing, shuttles, car-pooling, train, ..
+* Vehicles: Car/bike/scoroter sharing, car rental
+* Ticket: PT ticket
+* Parking/Charging 
